@@ -16,4 +16,5 @@ git clone https://github.com/anuragak021/Neovim ~/.config/nvim
 The Keyboard shorcuts that I have used are : 
 <br> 
 1. <kbd>Shift</kbd> + <kbd>K</kbd> -> Hover over a keyword
-2. 
+2. <kbd></kbd> + <kbd></kbd> ->
+3. 
