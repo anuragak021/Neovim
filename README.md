@@ -8,10 +8,10 @@ To use this directory do
 ```bash
 git clone https://github.com/anuragak021/Neovim
 ```
-After cloning Delete the LICENSE and README.md file 
+After cloning Delete the LICENSE , README.md and .git file 
 
 ```bash
-rm README.md ; rm LICENSE
+rm README.md ; rm LICENSE ; rm -rf .git
 ```
 in the .config/nvim folder this will clone everything in folder named Neovim to move all the contents of this folder to up one folder do 
 
@@ -42,3 +42,5 @@ The Keyboard shorcuts that I have used are :
 
 Visual of the Neovim Configuration : 
 <img width="800" height="450" alt="Neovim IDE with terminal" src="https://github.com/user-attachments/assets/7a7f0706-2c98-44b0-a227-5782e3720ed7" />
+
+
