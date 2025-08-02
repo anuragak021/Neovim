@@ -8,6 +8,11 @@ To use this directory do
 ```bash
 git clone https://github.com/anuragak021/Neovim
 ```
+After cloning Delete the LICENSE and README.md file 
+
+```bash
+rm README.md ; rm LICENSE
+```
 in the .config/nvim folder this will clone everything in folder named Neovim to move all the contents of this folder to up one folder do 
 
 ```bash
