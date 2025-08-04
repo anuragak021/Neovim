@@ -39,6 +39,7 @@ The Keyboard shorcuts that I have used are :
 16. <kbd>Leader</kbd> + <kbd>i(i = 1 to 9 ) </kbd> -> Switch to that particular terminal
 17. <kbd>Ctrl</kbd> + <kbd>/</kbd> -> Comment those lines selected in visual mode
 18. <kbd>cp</kbd> + <kbd>tab</kbd> -> Competetive Programming snippet
+19. <kbd>Leader</kbd> + <kbd>m</kbd> + <kbd>p<kbd> -> Toggle markdown render
 
 Visual of the Neovim Configuration : 
 <img width="800" height="450" alt="Neovim IDE with terminal" src="https://github.com/user-attachments/assets/7a7f0706-2c98-44b0-a227-5782e3720ed7" />
